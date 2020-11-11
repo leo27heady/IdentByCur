@@ -1,4 +1,6 @@
-# IdentByCur
+# Identification
+README.md
+
 User identification by cursor movement
 
 Program description
