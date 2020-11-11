@@ -11,7 +11,7 @@ Created a program in which the user is recognize (authenticate) by cursor moveme
   <figcaption>Software display</figcaption>
 </figure>
 
-<br>
+<br><br>
 When the cursor moves, 5 parameters are calculated: 
 - Speed 10% of the way
 - Average speed
